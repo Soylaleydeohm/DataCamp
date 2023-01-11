@@ -1,2 +1,2 @@
 # DataCamp
-Projets from DataCamp
+Projects from DataCamp
