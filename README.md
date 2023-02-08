@@ -1,2 +1,2 @@
-# DataCamp
-Projects from DataCamp
+# Projects
+DS & ML projects
